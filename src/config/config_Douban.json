@@ -1,0 +1,17 @@
+{
+    "feature_range": [
+        0.0,
+        0.8
+    ],
+    "gcl_temp": 0.15,
+    "sg_weight": 0.3,
+    "cf_weight": 1.5,
+    "gcl_inter_weight": 0.2,
+    "dropout": 0.2,
+    "layer": 3,
+    "layer_sg": 4,
+    "patience": 1,
+    "trainbatch": 1024,
+    "lr": 0.002,
+    "l2_reg": 1e-05
+}
